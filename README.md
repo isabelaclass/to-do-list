@@ -1,4 +1,19 @@
-# to-do-list Project 
-Projeto realizado durante o curso Java Online da plataforma de Rocketseat.
-O projeto de Java utiliza Maven, SpringBoot e Docker. O deploy foi realizado na plataforma Render. 
-Render: https://to-do-list-nl7e.onrender.com
+# To-Do List Project
+
+Repository created to save the project develped during Online Java Training by Rocketseat.
+
+## Author
+
+- [@isabelaclass](https://github.com/isabelaclass)
+
+
+## Learnings
+
+- Maven
+- SpringBoot
+- Docker
+- Deploy
+  
+## Tech
+
+**Back-end:** Java
